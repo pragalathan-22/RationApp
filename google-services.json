@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697664283469",
+    "project_id": "ration-app-4b7a6",
+    "storage_bucket": "ration-app-4b7a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697664283469:android:5bd5a63fe769e402324d04",
+        "android_client_info": {
+          "package_name": "com.bakthapragalathan.RationApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNu4A6YtBgEbT9UvMJxaocIzQ2_q_Jo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
